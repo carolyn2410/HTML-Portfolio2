@@ -1,3 +1,7 @@
+title: Resume
+layout: template
+filename: Resume.md FILE HERE
+
 <!DOCTYPE html>
 <html lang="en">
     <head>
@@ -55,4 +59,5 @@
         <p>© Carolyn Borucki. All Rights Reserved.</p>
     </footer>
     </body>
+
 </html>
